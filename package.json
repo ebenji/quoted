@@ -1,6 +1,6 @@
 {
   "name": "quotebook",
-  "homepage": "https://ebenji.github.io/Quoted",
+  "homepage": "https://ebenji.github.io/quoted",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
